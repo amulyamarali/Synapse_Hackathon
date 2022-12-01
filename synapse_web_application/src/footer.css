@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+#footer{
+    height: 20vh;
+    background-color: #00142d;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.iconclass{
+    margin: 10px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+.iconclass:hover{
+    color: rgb(0, 166, 255);
+}
+.insta:hover{
+    color: rgb(255, 182, 194);
+}
+.git:hover{
+    color: rgb(58, 38, 38);
+}
